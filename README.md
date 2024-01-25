@@ -138,3 +138,5 @@ To read it, we split it into 32 byte parts:
 - The `03` also points to the length of our input array
 - Converting the rest back to decimal reverts back to our initial decimal input
 
+- This article was inspired by [Degatchi's  Article here](https://degatchi.com/articles/reading-raw-evm-calldata)
+
